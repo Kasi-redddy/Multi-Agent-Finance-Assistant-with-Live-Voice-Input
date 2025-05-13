@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+yfinance
+requests
+beautifulsoup4
+numpy
+sentence-transformers
+faiss-cpu
+transformers
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+torch
+pyttsx3
+audio-recorder-streamlit
+git+https://github.com/openai/whisper.git
